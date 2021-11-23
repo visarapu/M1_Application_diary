@@ -10,4 +10,5 @@ Any Authorized user can see thier saved data whenever they want to.
 It is more efficiently to prevent the data theft.
 # HOW
 It is created using functionalities such as protection.
+
 optimized code results in less time consumption for running the program.
