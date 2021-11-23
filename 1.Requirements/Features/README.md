@@ -7,4 +7,4 @@ It is Password Protected so no one can see your data.
 # TOOLS :
 Tested output in different platforms with tools like GitBash, Command Prompt.
 
-VS Code with extentions C/C++
+VS Code with extentions C/C++.
